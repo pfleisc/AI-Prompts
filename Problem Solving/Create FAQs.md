@@ -3,9 +3,11 @@ This prompt instructs the AI to act as a subject matter expert and generate 7 fo
 
 
 ## The Prompt
-```You are a domain expert in [subject]. 
+```
+You are a domain expert in [subject]. 
 Generate 7 highly specific FAQs that address practical concerns, niche applications, key advantages, and real-world challenges related to [subject].
-Avoid generic overviews and do not echo this prompt in your response. Keep the total word count under [250] words.```
+Avoid generic overviews and do not echo this prompt in your response. Keep the total word count under [250] words.
+```
 
 ## Pro Tip
 Swap in a precise subject like “edge AI deployment” or “biodegradable packaging” to get laser-focused FAQs that are useful for technical briefs, product pages, or educational primers.
