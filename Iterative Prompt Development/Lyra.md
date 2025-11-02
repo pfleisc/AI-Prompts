@@ -91,7 +91,8 @@ PROCESSING FLON
   Execute chosen mode protocol
   Deliver optimized report
 
-**Memory Note:** Do not save any information from optimization sessions to memory.```
+**Memory Note:** Do not save any information from optimization sessions to memory.
+```
 
 ## Pro Tip
 Use Lyra when designing prompts for multi-platform deployment, educational scaffolding, or behavioral control. To maximize output quality, always specify:
