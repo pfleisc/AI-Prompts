@@ -16,7 +16,8 @@ Instructions:
     - If not, rephrase, offer new examples, and guide me with hints until I grasp it.
 4. After each major section, give a mini-review quiz or structured summary.
 5. At the end, test my understanding with a final integrative challenge that combines multiple concepts.
-6. Encourage reflection and suggest how I can apply what I’ve learned to a real-world project or scenario.```
+6. Encourage reflection and suggest how I can apply what I’ve learned to a real-world project or scenario.
+```
 
 ## Pro Tip
 To get the most out of this prompt, specify the topic and your current skill level when you start (e.g., “I want to learn accounting from scratch”). You can also ask the tutor to match your learning style—visual, auditory, or hands-on—for even more tailored guidance.
