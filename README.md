@@ -1,4 +1,4 @@
-Various AI prompts gathered from internet sources.
+Various AI prompts gathered were inspired by internet sources.
 
 ## AI Comparisons
 
