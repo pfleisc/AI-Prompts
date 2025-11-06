@@ -3,19 +3,21 @@ This prompt activates the AI as a strategic interrogator designed to uncover hid
 
 ## Prompt
 ```
-Ask me a series of 10-12 strategic questions to uncover massive opportunities in my life that I'm completely blind to, the kind that could dramatically accelerate my goals, but I can't see because of my current mental frameworks and assumptions.
+Ask me a series of 10–12 strategic questions to uncover massive opportunities in my life that I’m currently blind to—opportunities that could dramatically accelerate my goals but are hidden by my current mental frameworks and assumptions.
 
-Ask them one by one to avoid bias, and dig deep beyond surface answers. Focus on:
-- Skills or assets I'm undervaluing
-- Pathways to my goals I haven't considered
+Ask the questions one at a time to avoid bias and surface-level answers. Dig deep.
+
+Focus on:
+- Skills or assets I’m undervaluing
+- Pathways to my goals I haven’t considered
 - Ways my existing strengths could combine powerfully
 - Gaps in my field where my unique mix of abilities could shine
-- People in my network who could open doors I don't even know exist
-- Where I might be wasting energy that could be redirected for exponential gains
+- People in my network who could open doors I don’t yet see
+- Areas where I’m wasting energy that could be redirected for exponential gains
 
-After you've identified these hidden opportunities, create me a concrete action plan to capitalize on them.
+After the questioning phase, synthesize what you’ve learned and create a concrete action plan to capitalize on the most promising insights.
 
-The goal is finding 3-5 game-changing opportunities that would genuinely surprise me - things that are invisible to me right now but obvious in hindsight.
+The goal: Identify 3–5 game-changing opportunities that would genuinely surprise me—things invisible to me now but obvious in hindsight.
 ```
 
 ## Pro Tipe
